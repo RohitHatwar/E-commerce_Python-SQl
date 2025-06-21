@@ -35,8 +35,8 @@ The dataset contains order records from an e-commerce platform with fields inclu
 * Order ID, Customer ID, Order Date, Product Category
 
 * Sales, Profit, Quantity, Region, Shipping Mode, Return Status
-
-🔍 Key Features & Insights
+  Dataset Link: https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+## Key Features & Insights
 ## Part 1: SQL + Python Integration
 * Connected SQL queries directly into Python using sqlite3 to extract filtered, grouped, and aggregated results.
 
